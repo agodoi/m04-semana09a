@@ -81,14 +81,4 @@
    - Detalhar no repositório. *(1 ponto)*
 
 ### **Prazo de entrega:**  
-Até **23:59 do dia 10/12/2024 (hoje).**
-
----
-
-## Sobre a Palestrante
-- **Formação:**  
-  - Bacharel em Engenharia de Computação (IME)  
-  - Mestre em Modelagem Matemática da Informação (EMAp/FGV)  
-  - Doutoranda em Inovação em Sistemas (PUC-SP)  
-- **Atuação:**  
-  - Co-criadora do canal *Programação Dinâmica*
+Até **18h** de hoje!
