@@ -55,6 +55,9 @@ Neste encontro, após apresentação de uma visão geral de vulnerabilidades, ri
   - Exploração de falhas de autenticação.
   - Ataques de phishing.
   - Exploração de sistemas desatualizados.
+  - [Acesse esse hub](https://hub.tisafe.com/news) para conhecer a pontuação de vários ataques. Seus dados vão de 3 à 5.
+
+O objetivo principal dessa seção é manter profissionais de segurança cibernética, gestores de infraestruturas críticas e o público em geral informados sobre as ameaças mais significativas no cenário atual. Ao disponibilizar análises detalhadas e atualizações sobre ciberataques, o site auxilia na conscientização e na preparação contra possíveis ameaças, promovendo a resiliência das infraestruturas críticas.
 
 - **Fonte:**  
   *BRANQUINHO, Thiago; Marcelo. Segurança Cibernética Industrial. Rio de Janeiro: Editora Alta Books, 2021.*  
