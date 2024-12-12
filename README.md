@@ -72,7 +72,7 @@ Neste encontro, após apresentação de uma visão geral de vulnerabilidades, ri
      - Nível de risco (baixo, médio, alto).  
    *(2 pontos)*
 
-4. **Apresentação para a turma**:
+4. **Apresentação para a turma às 11h15**:
    - Consolidar resultados. *(3 pontos)*
 
 5. **Entrega pelo GitHub**:
