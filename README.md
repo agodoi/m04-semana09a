@@ -34,7 +34,7 @@ Neste encontro, após apresentação de uma visão geral de vulnerabilidades, ri
   - **Exemplo:** Falha de autenticação.
 
 
-![Ataques](https://github.com/agodoi/m04-semana09a/blob/main/imgs/ataques.png)
+![Ataques](https://github.com/agodoi/m04-semana09a/blob/main/imgs/ataques2.png)
 
 ### OWASP
 - Fundada em 2001, conhecida por educação e pesquisa em segurança de aplicações.
