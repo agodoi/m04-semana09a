@@ -94,4 +94,4 @@ O objetivo principal dessa seção é manter profissionais de segurança cibern�
 
 ### Prazo de entrega:
 
-![MeiDiaPapai](https://github.com/agodoi/m04-semana09a/blob/main/imgs/meidiapapai.png)
+![MeiDiaPapai](https://github.com/agodoi/m04-semana09a/blob/main/imgs/meidiapapai2.png)
