@@ -81,6 +81,6 @@ Neste encontro, após apresentação de uma visão geral de vulnerabilidades, ri
 6. **Contribuição individual**:
    - Detalhar no repositório. *(1 ponto)*
 
-### **Prazo de entrega:
+### Prazo de entrega:
 
 ![MeiDiaPapai](https://github.com/agodoi/m04-semana09a/blob/main/imgs/meidiapapai.png)
