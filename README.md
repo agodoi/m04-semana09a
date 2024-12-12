@@ -39,7 +39,10 @@ Neste encontro, após apresentação de uma visão geral de vulnerabilidades, ri
 ### OWASP
 - Fundada em 2001, conhecida por educação e pesquisa em segurança de aplicações.
 - **Links úteis:**  
-  - [OWASP IoT Project](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Vulnerabilities)  
+  - [OWASP IoT Project](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Vulnerabilities)
+
+![Tipos de Ataques](https://github.com/agodoi/m04-semana09a/blob/main/imgs/ataques.png)
+
   - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 
 ---
