@@ -2,6 +2,7 @@
 
 ## Visão Geral sobre Segurança em IoT
 
+Neste encontro, após apresentação de uma visão geral de vulnerabilidades, riscos e contramedidas de segurança da informação em IoT, será realizada uma atividade ponderada.
 
 1. Segurança em IoT
    - **Visão geral de vulnerabilidades**
@@ -41,7 +42,7 @@
 ---
 
 ### Ataques em IoT
-- Definição: Ações deliberadas para explorar vulnerabilidades.
+- Definição: ações deliberadas para explorar vulnerabilidades.
 - Objetivos:
   - Causar danos, roubar dados, interromper serviços ou obter acessos não autorizados.
 - Exemplos:
@@ -80,5 +81,5 @@
 6. **Contribuição individual**:
    - Detalhar no repositório. *(1 ponto)*
 
-### **Prazo de entrega:**  
-Até **18h** de hoje!
+### **Prazo de entrega:
+
