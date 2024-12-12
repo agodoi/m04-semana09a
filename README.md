@@ -33,6 +33,9 @@ Neste encontro, após apresentação de uma visão geral de vulnerabilidades, ri
   - **Passivas**: Não causam danos sozinhas.
   - **Exemplo:** Falha de autenticação.
 
+
+![Ataques](https://github.com/agodoi/m04-semana09a/blob/main/imgs/ataques.png)
+
 ### OWASP
 - Fundada em 2001, conhecida por educação e pesquisa em segurança de aplicações.
 - **Links úteis:**  
