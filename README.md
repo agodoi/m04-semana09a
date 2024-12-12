@@ -59,7 +59,9 @@ Neste encontro, após apresentação de uma visão geral de vulnerabilidades, ri
 
 O objetivo principal dessa seção é manter profissionais de segurança cibernética, gestores de infraestruturas críticas e o público em geral informados sobre as ameaças mais significativas no cenário atual. Ao disponibilizar análises detalhadas e atualizações sobre ciberataques, o site auxilia na conscientização e na preparação contra possíveis ameaças, promovendo a resiliência das infraestruturas críticas.
 
-- **Fonte:**  
+- [Nesse site temos o TOP10 de vulnerabilidades](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Vulnerabilitieshttps://owasp.org/www-project-top-ten/)
+
+- **Fonte de Livro:**  
   *BRANQUINHO, Thiago; Marcelo. Segurança Cibernética Industrial. Rio de Janeiro: Editora Alta Books, 2021.*  
   ISBN 9786555204117  
   Disponível em: [Minha Biblioteca](https://integrada.minhabiblioteca.com.br/reader/books/9786555204117/)
