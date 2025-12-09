@@ -83,7 +83,7 @@ O objetivo principal dessa seção é manter profissionais de segurança cibern�
      - Nível de risco (baixo, médio, alto).  
    *(2 pontos)*
 
-4. **Apresentação para a turma às 11h15**:
+4. **Apresentação para a turma às 15h40**:
    - Consolidar resultados. *(3 pontos)*
 
 5. **Entrega pelo GitHub**:
